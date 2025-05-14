@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99273933-6b24-4bb3-bdbb-ebee27eff5ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ProjetPerso.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Change_date_format.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extract_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extract_players_stat_for_prediction_nba_web.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extract_stat_player_nba_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extract_stat_team_match.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sora.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,20 +31,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Change_date_format.executor&quot;: &quot;Run&quot;,
-    &quot;Python.extract_names.executor&quot;: &quot;Run&quot;,
-    &quot;Python.extract_stat_player_nba_api.executor&quot;: &quot;Run&quot;,
-    &quot;Python.extract_stat_team_match.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sora.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Change_date_format.executor": "Run",
+    "Python.extract_names.executor": "Run",
+    "Python.extract_stat_player_nba_api.executor": "Run",
+    "Python.extract_stat_team_match.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.sora.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ProjetPerso" />
